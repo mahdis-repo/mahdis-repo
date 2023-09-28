@@ -1,4 +1,3 @@
-### Hi there 👋
 ### A little about me:
 - 🔭 I’m currently an undergraduate CS student at Kharazmi University.
 - 🌱 I’m currently learning about Generative models and applications of Object detection in different domains.
