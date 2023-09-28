@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently an undergraduate CS student in Kharazmi University.
+- 🌱 I’m currently learning about Generative models and applications of Object detection in different domains.
+- 💬 Ask me about AI, Machine Learning and Deep Learning, Computer Vision Tasks and Medical Image processing.
 
+- 
 <!--
 **mahdis-repo/mahdis-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
